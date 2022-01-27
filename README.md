@@ -2,7 +2,8 @@
 
 This project is a part of the [AlmaBetter Pro Program](https://www.almabetter.com/) 
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
+####  Score: - [ 100 / 100 ]
 
 ## Project Summary :
 #### Problem Statement : 
